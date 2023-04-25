@@ -144,7 +144,7 @@ For this, you have two options:
 
 > Note: There is no need to implement the `write` method, since we're only consuming the API, but not sending to it.
 
-Check out this extensive [tutorial on Gson type adapters](http://www.javacreed.com/gson-typeadapter-example/).
+Check out this extensive [tutorial on Gson type adapters](https://github.com/albertattard/gson-typeadapter-example).
 
 
 ## Retrofit
